@@ -1,0 +1,2 @@
+[МХМ]
+Connect=File="s:\users@%^data\

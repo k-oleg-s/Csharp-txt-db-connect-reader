@@ -1,0 +1,10 @@
+[МХМ]
+Connect=File="s:\users@%^data\643343\МХТ";
+
+[Оптовик]
+Connect=Srvr="555123host371:1741";Ref="432345_base01";
+
+[ООО &quot;Сити&quot;]
+Connect=Srvr="host166";Ref="635445_base23";
+
+

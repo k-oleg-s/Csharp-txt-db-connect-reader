@@ -1,0 +1,17 @@
+[KTA_NDS]     path has invalid char:>
+ Connect=File="\\clusterfs126>\users\91776\DB\Accounting3";
+[test1]    ошибка в параметре connect  
+Connect=Srv22r="host371:1741";Ref="432345_base01";
+
+[test2]    ошибка в параметре connect  
+Connect=Srv22r="host371:1741";Ref="432345_base01";
+
+[test3]    ошибка в параметре connect  
+Connect=File"C:\Users\OlegAsus\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug";
+
+[test4]    ошибка в параметре connect  
+
+
+[test5]    ошибка в параметре connect  
+Connect=Srvr="host371:1741";
+
